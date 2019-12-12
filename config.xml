@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "org.itcilo.ecampusmobile"
+    versionCode = "20220"
+    version     = "3.7.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>ITCILO eCampus</name>
+
+  <description>
+       ITCILO eCampus app
+  </description>
+
+  <author href="https://ecampus.itcilo.org/">
+       ITCILO eCampus team
+  </author>
+
+</widget>
